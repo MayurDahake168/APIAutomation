@@ -1,0 +1,5 @@
+C:\Users\Mayur Dahake\source\repos\NewAPIAutomation\APITests\obj\Debug\net6.0\APITests.csproj.AssemblyReference.cache
+C:\Users\Mayur Dahake\source\repos\NewAPIAutomation\APITests\obj\Debug\net6.0\APITests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayur Dahake\source\repos\NewAPIAutomation\APITests\obj\Debug\net6.0\APITests.AssemblyInfoInputs.cache
+C:\Users\Mayur Dahake\source\repos\NewAPIAutomation\APITests\obj\Debug\net6.0\APITests.AssemblyInfo.cs
+C:\Users\Mayur Dahake\source\repos\NewAPIAutomation\APITests\obj\Debug\net6.0\APITests.csproj.CoreCompileInputs.cache

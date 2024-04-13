@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mayur Dahake\\source\\repos\\NewAPIAutomation\\APITests\\APITests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mayur Dahake\\source\\repos\\NewAPIAutomation\\APITests\\APITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mayur Dahake\\source\\repos\\NewAPIAutomation\\APITests\\APITests.csproj",
+        "projectName": "APITests",
+        "projectPath": "C:\\Users\\Mayur Dahake\\source\\repos\\NewAPIAutomation\\APITests\\APITests.csproj",
+        "packagesPath": "C:\\Users\\Mayur Dahake\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mayur Dahake\\source\\repos\\NewAPIAutomation\\APITests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mayur Dahake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mayur Dahake\\source\\repos\\NewAPIAutomation\\NewAPIAutomation\\NewAPIAutomation.csproj": {
+                "projectPath": "C:\\Users\\Mayur Dahake\\source\\repos\\NewAPIAutomation\\NewAPIAutomation\\NewAPIAutomation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.19.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mayur Dahake\\source\\repos\\NewAPIAutomation\\NewAPIAutomation\\NewAPIAutomation.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mayur Dahake\\source\\repos\\NewAPIAutomation\\NewAPIAutomation\\NewAPIAutomation.csproj",
+        "projectName": "NewAPIAutomation",
+        "projectPath": "C:\\Users\\Mayur Dahake\\source\\repos\\NewAPIAutomation\\NewAPIAutomation\\NewAPIAutomation.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
